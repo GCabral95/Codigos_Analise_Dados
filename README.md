@@ -1,5 +1,5 @@
-# Useful-Codes
-Códigos e funções mais úteis em análise de dados
+# Useful-Codes: Python
+Códigos e funções mais úteis em análise de dados em Python
 
 Livros e Sites base:
 
