@@ -8,7 +8,3 @@ MCKINNEY, W.; KINOSHITA, L. A. Python para Análise de Dados: tratamento de dado
 Minerando Dados. Disponível em: https://minerandodados.com.br/
 
 https://www.dataschool.io/
-
-https://python-graph-gallery.com/
-
-https://www.machinelearningplus.com/plots/top-50-matplotlib-visualizations-the-master-plots-python/
